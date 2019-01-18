@@ -1,0 +1,19 @@
+{
+   "list":[
+        {
+            "vc":"ViewController",
+            "img":"speaker",
+            "name":"所有活动"
+        },
+        {
+            "vc":"ViewController3",
+            "img":"heart",
+            "name":"我的收藏"
+        },
+        {
+            "vc":"ViewController5",
+            "img":"user",
+            "name":"功能设定"
+        }
+    ]
+}
