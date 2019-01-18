@@ -1,0 +1,81 @@
+{
+    "title":"近期活动",
+    "list": [
+        {
+            "type": 5,
+            "content": [ 
+                {
+                    "id":"",
+                    "image": "",
+                    "text": ""
+                },
+                {
+                    "id":"",
+                    "image": "",
+                    "text": ""
+                },
+                {
+                    "id":"",
+                    "image": "",
+                    "text": ""
+                },
+                {
+                    "id":"",
+                    "image": "",
+                    "text": ""
+                },
+                {
+                    "id":"",
+                    "image": "",
+                    "text": ""
+                },
+                {
+                    "id":"",
+                    "image": "",
+                    "text": ""
+                },
+                {
+                    "id":"",
+                    "image": "",
+                    "text": ""
+                },
+                {
+                    "id":"",
+                    "image": "",
+                    "text": ""
+                },
+                {
+                    "id":"",
+                    "image": "",
+                    "text": ""
+                },
+                {
+                    "id":"",
+                    "image": "",
+                    "text": ""
+                },
+                {
+                    "id":"",
+                    "image": "",
+                    "text": ""
+                },
+                {
+                    "id":"",
+                    "image": "",
+                    "text": ""
+                },
+                {
+                    "id":"",
+                    "image": "",
+                    "text": ""
+                },
+                {
+                    "id":"",
+                    "image": "",
+                    "text": ""
+                },
+              
+            ]
+        }
+    ]
+}
