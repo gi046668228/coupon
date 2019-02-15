@@ -29,85 +29,113 @@
                     "id": "31454068",
                     "image": "https://img1.doubanio.com/pview/event_poster/median/public/cc5bc6640baa10c.jpg",
                     "text": "第三届深焦华语影评人大赛",
-                    "time": "2019年02月07日"
+                    "time": "2019年02月07日",
+                    "lat":39.9344421,
+                    "lon":116.4207918
                 },
                 {
                     "id": "31467800",
                     "image": "https://img3.doubanio.com/pview/event_poster/large/public/2e251ba5d1a566f.jpg",
                     "text": "东野圭吾悬疑舞台剧《回廊亭杀人事件》",
-                    "time": "2019年02月20日"
+                    "time": "2019年02月20日",
+                    "lat":39.9345486,
+                    "lon":116.4334168
                 },
                 {
                     "id": "31741764",
                     "image": "https://img3.doubanio.com/pview/event_poster/large/public/e11a2e3de5fa595.jpg",
                     "text": "四合院里包饺子，还有什么比这跟腊八节更配呢",
-                    "time": "2019年02月03日"
+                    "time": "2019年02月03日",
+                    "lat":39.9180491,
+                    "lon":116.4282513
                 },
                 {
                     "id": "31741281",
                     "image": "https://img3.doubanio.com/pview/event_poster/large/public/02c4e8def0a1b06.jpg",
                     "text": "阅读简平思享会（角楼图书馆 北京）",
-                    "time": "2019年02月01日"
+                    "time": "2019年02月01日",
+                    "lat":39.9114628,
+                    "lon":116.3916253
                 },
                 {
                     "id": "31740969",
                     "image": "https://img1.doubanio.com/pview/event_poster/median/public/5c9b095a04a1f0c.jpg",
                     "text": "摩登时代的A面与B面——了不起的菲茨杰拉德",
-                    "time": "2019年01月28日"
+                    "time": "2019年01月28日",
+                    "lat":39.911584,
+                    "lon":116.3916253
                 },
                 {
                     "id": "31740463",
                     "image": "https://img3.doubanio.com/pview/event_poster/large/public/a0b5110243ee176.jpg",
                     "text": "《安徒生自传：我的童话人生》新书分享会",
-                    "time": "2019年01月26日"
+                    "time": "2019年01月26日",
+                    "lat":39.9714211,
+                    "lon":116.4340553
                 },
                 {
                     "id": "31740391",
                     "image": "https://img3.doubanio.com/pview/event_poster/median/public/5b71993813485ee.jpg",
                     "text": "#豆瓣书榜分享会#「 房思琪的初恋乐园 」",
-                    "time": "2019年01月29日"
+                    "time": "2019年01月29日",
+                    "lat":39.9223421,
+                    "lon":116.4379924
                 },
                 {
                     "id": "31739189",
                     "image": "https://img3.doubanio.com/pview/event_poster/median/public/4bba59dc032d265.jpg",
                     "text": "艺术留学｜这场罗德岛设计学院全解码，就都给我嗑了吧！",
-                    "time": "2019年02月07日"
+                    "time": "2019年02月07日",
+                    "lat":39.9489318,
+                    "lon":116.4370504
                 },
                 {
                     "id": "31739157",
                     "image": "https://img3.doubanio.com/pview/event_poster/large/public/3e965e931e7d724.jpg",
                     "text": "我们在生活中遗失的生命何在？——《T.S.艾略特传》新书分享会",
-                    "time": "2019年01月31日"
+                    "time": "2019年01月31日",
+                    "lat":39.9571701,
+                    "lon":116.2479644
                 },
                 {
                     "id": "31738877",
                     "image": "https://img3.doubanio.com/pview/event_poster/median/public/5da1975aca95d60.jpg",
                     "text": "佛缘阁《姓名学》1月12、13日 周六日两天免费课程",
-                    "time": "2019年02月10日"
+                    "time": "2019年02月10日",
+                    "lat":39.9489318,
+                    "lon":116.4370504
                 },
                 {
                     "id": "31737894",
                     "image": "https://img3.doubanio.com/pview/event_poster/large/public/8743b9c5835dd43.jpg",
                     "text": "户外休闲爬山徒步活动 （几乎每周六举行）",
-                    "time": "2019年02月20日"
+                    "time": "2019年02月20日",
+                    "lat":39.9338444,
+                    "lon":116.1509124
                 },
                 {
                     "id": "31737238",
                     "image": "https://img1.doubanio.com/pview/event_poster/median/public/7c7754645351ab7.jpg",
                     "text": "噗哧脱口秀北京周三琥珀精酿开放麦",
-                    "time": "2019年01月31日"
+                    "time": "2019年01月31日",
+                    "lat":39.9362203,
+                    "lon":116.4024586
                 },
                 {
                     "id": "31736921",
                     "image": "https://img3.doubanio.com/pview/event_poster/large/public/ee7e172ef753615.jpg",
                     "text": "宅男宅女终结社，拒宅主义 ~ 每天组织有趣儿的活动",
-                    "time": "2019年01月31"
+                    "time": "2019年01月31",
+                    "lat":39.9539348,
+                    "lon":116.3197692
                 },
                 {
                     "id": "31736918",
                     "image": "https://img3.doubanio.com/pview/event_poster/median/public/185ee664fb88623.jpg",
                     "text": "暮美集·黑白大画幅胶片人像摄影展",
-                    "time": "2019年02月01日"
+                    "time": "2019年02月01日",
+                    "lat":39.9277961,
+                    "lon":116.4066103
                 }
             ]
         }

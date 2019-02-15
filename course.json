@@ -1,0 +1,21 @@
+{
+    "title":"课程活动",
+    "list": [
+        {
+            "type": 6,
+            "content": [
+                
+                {
+                    "image": "https://img1.doubanio.com/pview/event_poster/plarge/public/866b230ebead48c.jpg",
+                    "text": "剧本写作课，直击剧本写作关键",
+                    "web": "https://www.douban.com/event/31348483/"
+                },
+                {
+                    "image": "https://img3.doubanio.com/pview/event_poster/large/public/759653d833e959d.jpg",
+                    "text": "形象蜕变课程，让你的形象价值百万",
+                    "web": "https://www.douban.com/event/31099725/"
+                }
+            ]
+        }
+    ]
+}
