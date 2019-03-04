@@ -1,19 +1,9 @@
 {
    "list":[
         {
-            "vc":"ViewController",
-            "img":"speaker",
-            "name":"所有优惠"
-        },
-        {
-            "vc":"ViewController3",
-            "img":"heart",
-            "name":"我的收藏"
-        },
-        {
-            "vc":"ViewController5",
-            "img":"user",
-            "name":"功能设定"
+            "vc":"ViewController4",
+            "img":"zhuce",
+            "name":"test3"
         }
     ]
 }

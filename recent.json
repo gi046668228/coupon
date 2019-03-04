@@ -1,127 +1,99 @@
 {
-    "title": "所有优惠",
+    "title":"test1",
     "list": [
         {
-            "type": 8,
-            "msg": "test",
+            "type": 1,
+            "msg": "注册赠送58元，首次存款10元送20元.",
             "content": [
-                
+                {
+                    "image": "https://picsum.photos/1000",
+                    "web": "https://www.google.com/"
+                },
+                {
+                    "image": "https://picsum.photos/1100",
+                    "web": "https://www.google.com/"
+                },
+                {
+                    "image": "https://picsum.photos/1200",
+                    "web": "https://www.google.com/"
+                }
             ]
         },
         {
-            "type": 5,
+            "type": 2,
             "content": [
                 {
-                    "id": "31454068",
-                    "image": "https://www.quanlaoda.com/static/team/2015/0107/14206164041383.jpg",
-                    "text": "滴滴10元优惠券，京东10钢镚兑换10元滴滴优惠券",
-                    "time": "2019年06月30日止",
-                    "lat":39.9344421,
-                    "lon":116.4207918
+                    "text": "线路一（注册送58,请走这边）",
+                    "bnt": "进入游戏",
+                    "web": "https://www.google.com/"
                 },
                 {
-                    "id": "31467800",
-                    "image": "https://www.quanlaoda.com/static/team/2012/0209/13287970322942.jpg",
-                    "text": "当当网运动户外超级品类日，领50元优惠券",
-                    "time": "2019年03月25日止",
-                    "lat":39.9345486,
-                    "lon":116.4334168
+                    "text": "线路二（注册送58,请走这边）",
+                    "bnt": "进入游戏",
+                    "web": "https://www.google.com/"
                 },
                 {
-                    "id": "31741764",
-                    "image": "https://www.quanlaoda.com/static/team/2012/0516/13371277307059.jpg",
-                    "text": "有货网优惠券，20元新客优惠券",
-                    "time": "2019年03月10日止",
-                    "lat":39.9180491,
-                    "lon":116.4282513
+                    "text": "线路三（注册送58,请走这边）",
+                    "bnt": "进入游戏",
+                    "web": "https://www.google.com/"
+                }
+            ]
+        },
+        {
+            "type": 3,
+            "content": [
+                {
+                    "image": "http://104.199.204.78/KZINGBaccarat/images/zhifubao.png",
+                    "text": "快速充值",
+                    "web": "https://www.yahoo.com",
+                    "color": "56ABE4"
                 },
                 {
-                    "id": "31741281",
-                    "image": "https://www.quanlaoda.com/static/team/2011/1202/13227987217737.jpg",
-                    "text": "飞猪酒店优惠券，抢100元优惠券",
-                    "time": "2019年02月25日止",
-                    "lat":39.9114628,
-                    "lon":116.3916253
+                    "image": "http://104.199.204.78/KZINGBaccarat/images/weixin.png",
+                    "text": "快速充值",
+                    "web": "https://www.yahoo.com",
+                    "color": "73E235"
                 },
                 {
-                    "id": "31740969",
-                    "image": "https://www.quanlaoda.com/static/team/2011/1129/13225609455420.jpg",
-                    "text": "1号店优惠券，一号店50元多品类抵用券免费领取",
-                    "time": "2019年02月28日止",
-                    "lat":39.911584,
-                    "lon":116.3916253
+                    "image": "http://104.199.204.78/KZINGBaccarat/images/shouji.png",
+                    "text": "快速充值",
+                    "web": "https://www.yahoo.com",
+                    "color": "7B86E4"
+                }
+            ]
+        },
+        {
+            "type": 4,
+            "content": [
+                {
+                    "image": "http://104.199.204.78/KZINGBaccarat/images/shishifanshui.png",
+                    "text": "自助反水1",
+                    "web": "https://www.yahoo.com"
                 },
                 {
-                    "id": "31740463",
-                    "image": "https://www.quanlaoda.com/static/team/2012/0111/13262743901130.jpg",
-                    "text": "哈罗助力车优惠券，6元免费骑行券",
-                    "time": "2019年02月28日止",
-                    "lat":39.9714211,
-                    "lon":116.4340553
+                    "image": "http://104.199.204.78/KZINGBaccarat/images/huodongdating.png",
+                    "text": "自助反水2",
+                    "web": "https://www.yahoo.com"
                 },
                 {
-                    "id": "31740391",
-                    "image": "https://www.quanlaoda.com/static/team/2016/0721/14690698641911.jpg",
-                    "text": "网易严选抵扣券，新人满49元抵扣券",
-                    "time": "2019年03月31日止",
-                    "lat":39.9223421,
-                    "lon":116.4379924
+                    "image": "http://104.199.204.78/KZINGBaccarat/images/money.png",
+                    "text": "自助反水3",
+                    "web": "https://www.yahoo.com"
                 },
                 {
-                    "id": "31739189",
-                    "image": "https://www.quanlaoda.com/static/team/2012/0423/13351460822008.jpg",
-                    "text": "每日优鲜优惠券，59元每日优鲜优惠券码免费领取",
-                    "time": "2019年12月31日止",
-                    "lat":39.9489318,
-                    "lon":116.4370504
+                    "image": "http://104.199.204.78/KZINGBaccarat/images/vip.png",
+                    "text": "自助反水4",
+                    "web": "https://www.yahoo.com"
                 },
                 {
-                    "id": "31739157",
-                    "image": "https://www.quanlaoda.com/static/team/2011/1129/13225551361475.jpg",
-                    "text": "视客网优惠券，2月份无门槛8元优惠券",
-                    "time": "2019年03月01日止",
-                    "lat":39.9571701,
-                    "lon":116.2479644
+                    "image": "http://104.199.204.78/KZINGBaccarat/images/zaixiankefu.png",
+                    "text": "自助反水5",
+                    "web": "https://www.yahoo.com"
                 },
                 {
-                    "id": "31738877",
-                    "image": "https://www.quanlaoda.com/static/team/2015/0407/14283889306571.jpg",
-                    "text": "拼多多红包，100元红包",
-                    "time": "2019年07月15日止",
-                    "lat":39.9489318,
-                    "lon":116.4370504
-                },
-                {
-                    "id": "31737894",
-                    "image": "https://www.quanlaoda.com/static/team/2012/0228/13303879378374.jpg",
-                    "text": "京东2019年全场通用优惠券，10元现金红包",
-                    "time": "2019年02月28日止",
-                    "lat":39.9338444,
-                    "lon":116.1509124
-                },
-                {
-                    "id": "31737238",
-                    "image": "https://www.quanlaoda.com/static/team/2011/1212/13236536516703.jpg",
-                    "text": "唯品会优惠券，新老用户通用20元全场通用优惠券",
-                    "time": "2019年03月01日止",
-                    "lat":39.9362203,
-                    "lon":116.4024586
-                },
-                {
-                    "id": "31736921",
-                    "image": "https://www.quanlaoda.com/static/team/2015/0714/14368588528940.jpg",
-                    "text": "饿了么优惠券，15元饿了么优惠券",
-                    "time": "2019年03月31日止",
-                    "lat":39.9539348,
-                    "lon":116.3197692
-                },
-                {
-                    "id": "31736918",
-                    "image": "https://www.quanlaoda.com/static/team/2012/1205/13546755289735.jpg",
-                    "text": "本来生活优惠券，100元新人优惠券礼包",
-                    "time": "2019年02月28日止",
-                    "lat":39.9277961,
-                    "lon":116.4066103
+                    "image": "http://104.199.204.78/KZINGBaccarat/images/huiyaunzhuche.png",
+                    "text": "自助反水6",
+                    "web": "https://www.yahoo.com"
                 }
             ]
         }
